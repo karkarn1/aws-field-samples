@@ -66,6 +66,6 @@
 
 | Name | Description |
 |------|-------------|
-| <a name="output_knowledge_base"></a> [knowledge\_base](#output\_knowledge\_base) | The knowledge base. |
-| <a name="output_oss_collection"></a> [oss\_collection](#output\_oss\_collection) | n/a |
+| <a name="output_knowledge_base"></a> [knowledge\_base](#output\_knowledge\_base) | AWS Bedrock Knowledge Base |
+| <a name="output_oss_collection"></a> [oss\_collection](#output\_oss\_collection) | AWS OpenSearch Serverless Collection |
 <!-- END_TF_DOCS -->

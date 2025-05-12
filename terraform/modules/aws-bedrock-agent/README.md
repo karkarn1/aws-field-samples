@@ -61,8 +61,8 @@
 
 | Name | Description |
 |------|-------------|
-| <a name="output_agent"></a> [agent](#output\_agent) | n/a |
-| <a name="output_agent_alias"></a> [agent\_alias](#output\_agent\_alias) | n/a |
+| <a name="output_agent"></a> [agent](#output\_agent) | AWS Bedrock Agent |
+| <a name="output_agent_alias"></a> [agent\_alias](#output\_agent\_alias) | AWS Bedrock Agent Alias |
 <!-- END_TF_DOCS -->
 
 ## Authors
