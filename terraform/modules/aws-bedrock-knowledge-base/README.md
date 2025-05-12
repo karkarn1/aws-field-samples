@@ -5,20 +5,20 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.11.3 |
-| <a name="requirement_archive"></a> [archive](#requirement\_archive) | >= 2.7.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.94.0 |
-| <a name="requirement_null"></a> [null](#requirement\_null) | >= 3.2.3 |
-| <a name="requirement_time"></a> [time](#requirement\_time) | >= 0.13.0 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.11.4 |
+| <a name="requirement_archive"></a> [archive](#requirement\_archive) | >= 2.7.0, <3 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.97.0, <6 |
+| <a name="requirement_null"></a> [null](#requirement\_null) | >= 3.2.4, <4 |
+| <a name="requirement_time"></a> [time](#requirement\_time) | >= 0.13.1, <0.14 |
 
 #### Providers
 
 | Name | Version |
 |------|---------|
 | <a name="provider_archive"></a> [archive](#provider\_archive) | 2.7.0 |
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.94.0 |
-| <a name="provider_null"></a> [null](#provider\_null) | 3.2.3 |
-| <a name="provider_time"></a> [time](#provider\_time) | 0.13.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.97.0 |
+| <a name="provider_null"></a> [null](#provider\_null) | 3.2.4 |
+| <a name="provider_time"></a> [time](#provider\_time) | 0.13.1 |
 
 #### Resources
 
